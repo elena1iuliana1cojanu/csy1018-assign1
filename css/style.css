@@ -1,0 +1,103 @@
+html {height: 100%;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+   max-width:960px;
+    font-size: 62.5%;
+    margin:auto;
+  }
+    div.scrollmenu{
+      font-family: Arial, Helvetica, sans-serif;
+
+      float: right;
+      overflow: auto;
+    white-space: nowrap;
+
+    }
+    div.scrollmenu a {
+    display: inline-block;
+    color: #808080;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+div.scrollmenu a:hover {
+    background-color:#DCDCDC;
+}
+.header img {
+  float: left;
+  width: 75px;
+  height: 75px;
+
+}
+.header h1 {
+  font-family:Verdana, Geneva, sans-serif;
+  position: relative;
+  top: 18px;
+  left: 10px;
+  font-size: 25px;
+  color:#696969;
+
+}
+    .image img{
+   margin-top:15px;
+   position: relative;
+   width: 107%;
+   float: left;
+   max-height: 250px;
+}
+
+.image h2 {
+  color: #F5F5F5;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  position:absolute;
+  top: 200px;
+  left: 20px;
+  width: 100%;
+  background: rgba(255, 165, 0, 0.5);
+}
+.profile img{
+  max-height:300px;
+  max-width: 200px;
+  padding-bottom: 4px;
+  margin-top: 100px;
+}
+.content {
+
+    display: inline-block;
+    padding-bottom: 4px;
+    margin-top:50px;
+}
+.content h1{
+  font-family: "Lucida Console", Monaco, monospace;
+  color:#FFCC66;
+}
+.content h3{
+  font-family: " fantasy",monospace;
+  font-size: 25px;
+  color:#696969;
+}
+.contentpo h3 {
+font-size: 25px;
+margin-top: 100px;
+margin-left: 50px;
+position: absolute;
+font-family: " fantasy",monospace;
+}
+.table img{
+  border-bottom-right-radius: 100px;
+  margin-top: 150px;
+  max-width: 300px;
+  max-height: 300px;
+  margin-bottom: 25px;
+}
+.table1 img{
+  margin-top: 30px;
+  max-width: 300px;
+  max-height: 300px;
+
+
+}
