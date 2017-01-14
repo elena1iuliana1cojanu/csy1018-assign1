@@ -32,8 +32,13 @@ o	csy1018-assign1/images	    -  All website image files (.gif .jpg)
 o	csy1018-assign1/css		    -  All css files (.css)
 o   csy1018-assign1/README      -  Read me file
 
- 
+ I spent more then 20 hours
+I discussed with one of my friends about the favicon
+..it was a simple project but for a beginner was a big challenge and a huge start
+
 
 I tried to do it simple and clear and double check with the requirements
 
 I hope I touched all the points
+
+
